@@ -1,3 +1,5 @@
+This is a self-study journal covering the fundamentals of stock market investment. All learning materials will be organized into PDF documents for public sharing. As this is a part-time project, new releases will be posted intermittently. Should you find any inaccuracies within the text, feel free to submit errata via this channel.
+
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 本仓库内所有PDF文章采用 **知识共享署名-非商用-禁止演绎 4.0 国际协议（CC BY-NC-ND 4.0）**
 ### 允许
