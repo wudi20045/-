@@ -1,0 +1,9 @@
+[![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+本仓库内所有PDF文章采用 **知识共享署名-非商用-禁止演绎 4.0 国际协议（CC BY-NC-ND 4.0）**
+### 允许
+- 完整免费下载、转发、分享全部原文PDF
+### 禁止
+1. 任何形式商用、付费售卖、付费社群引流、企业付费培训使用
+2. 修改、删减、翻译、拆分、二次加工后对外分发（个人私下修改自用不限）
+### 强制要求
+转发、分享时必须标注原作者，并附上本协议链接
